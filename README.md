@@ -1,6 +1,6 @@
 # Deepak Dinesh
 
-- 🔭 I'm currently trying to learn C++
+- 🔭 Currently learning rust
 - 👯 Wanna collaborate, just reach out to me
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: Books are not something that you just read words in. They're also a tool to adjust your senses.
@@ -19,5 +19,5 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](d.deepakdinesh13@gmail.com)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/664490649285820436/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/deepak-dinesh-6444b71a0/)
-
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@deepakdinesh13)
 
