@@ -10,6 +10,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakdinesh1123&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+# Check Out My Blog 
+
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@deepakdinesh13)
+
+
 # Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,5 +35,4 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](d.deepakdinesh13@gmail.com)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/664490649285820436/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/deepak-dinesh-6444b71a0/)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@deepakdinesh13)
 
