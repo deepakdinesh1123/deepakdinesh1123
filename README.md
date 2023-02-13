@@ -1,11 +1,5 @@
 # Deepak Dinesh
 
-- 🔭 Currently learning rust
-- 👯 Wanna collaborate, just reach out to me
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: Books are not something that you just read words in. They're also a tool to adjust your senses.
-
-
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=deepakdinesh1123&count_private=true&show_icons=true&theme=radical&line_height=33)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakdinesh1123&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
